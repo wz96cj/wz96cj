@@ -16,3 +16,4 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="1">No Content</a></li>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wz96cj)](https://github.com/anuraghazra/github-readme-stats)
