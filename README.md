@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wz96cj&theme=dark&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wz96cj&theme=dark&show_icons=true&count_private=true)
 <h1>Hi 👋, I'm </h1>
 <p>backend developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
