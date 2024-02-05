@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wz96cj&theme=dark&show_icons=true)
 <h1>Hi 👋, I'm </h1>
 <p>backend developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
@@ -16,4 +17,3 @@
 <h2>✒️ Recent Posts</h2>
 <ul>
 <li><a target="_blank" href="1">No Content</a></li>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wz96cj)](https://github.com/anuraghazra/github-readme-stats)
