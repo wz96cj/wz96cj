@@ -1,4 +1,4 @@
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wz96cj&theme=dark&show_icons=true&count_private=true)
+[![Profile Summary Cards](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=wz96cj&theme=github_dark)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 <h1>Hi 👋, I'm CJ</h1>
 <p>backend developer</p>
 <h2>🚀 Languages and Tools I Use</h2>
